@@ -1,0 +1,80 @@
+		     Program #3
+		 McMurry University
+		COSC-3360  Fall 2020
+		  by Stephen Dunn
+
+
+	  67 integers were read
+	  55 integers were INSERTED
+	   0 integers were DUPLICATES and NOT INSERTED
+	   6 integers were DELETED
+	   6 integers were NOT FOUND for deletion
+
+	Final lists contain 49 integers
+
+	Contents of List 1 (FINAL)
+
+    826    961    368    578    364    922    952    270    254    642
+    943    464    135    762    115    996    562    468    197    119
+    762    755    731    432    152    197    948    276    130    731
+    953    225    125    581    967    538    333    226    787    556
+    922    433    458    697    882    132    173    556    448
+
+
+	Contents of List 2 (FINAL)
+
+    448    556    173    132    882    697    458    433    922    556
+    787    226    333    538    967    581    125    225    953    731
+    130    276    948    197    152    432    731    755    762    119
+    197    468    562    996    115    762    135    464    943    642
+    254    270    952    922    364    578    368    961    826
+
+
+Build Ascending List with NO Duplicates Allowed
+
+	  67 integers were read
+	  50 integers were INSERTED
+	   5 integers were DUPLICATES and NOT INSERTED
+	   6 integers were DELETED
+	   6 integers were NOT FOUND for deletion
+
+	Final list contain 44 integers
+
+	Contents of List 1 (ASCENDING NO DUPS)
+
+    115    119    125    130    132    135    152    173    197    225
+    226    254    270    276    333    364    368    432    433    448
+    458    464    468    538    556    562    578    581    642    697
+    731    755    762    787    826    882    922    943    948    952
+    953    961    967    996
+
+
+Build Descending List with Duplicates Allowed
+
+	  67 integers were read
+	  55 integers were INSERTED
+	   0 integers were DUPLICATES and NOT INSERTED
+	   6 integers were DELETED
+	   6 integers were NOT FOUND for deletion
+
+	Final list contain 49 integers
+
+	Contents of List 2 (DESCENDING WITH DUPS)
+
+    996    967    961    953    952    948    943    922    922    882
+    826    787    762    762    755    731    731    697    642    581
+    578    562    556    556    538    468    464    458    448    433
+    432    368    364    333    276    270    254    226    225    197
+    197    173    152    135    132    130    125    119    115
+
+Press any key to continue . . . 
+
+	Contents of List 2 (AFTER EXTRA FUNCTION CHECKS)
+
+    996    999    967    961    953    952    948    943    922    922
+    882    826    787    762    762    755    731    731    697    642
+    599    600    578    562    556    556    538    468    464    458
+    448    437    432    368    364    333    276    270    254    226
+    225    197    197    173    152    135    222    132    130    125
+    119    111
+
